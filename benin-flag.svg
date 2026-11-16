@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" preserveAspectRatio="xMidYMid meet">
-  <!-- Drapeau du Bénin - couleurs officielles -->
-  <!-- Bande verte verticale (2/5 de la largeur) -->
-  <rect x="0" y="0" width="12" height="20" fill="#008751"/>
-  <!-- Bande jaune horizontale (haut) -->
-  <rect x="12" y="0" width="18" height="10" fill="#FCD116"/>
-  <!-- Bande rouge horizontale (bas) -->
-  <rect x="12" y="10" width="18" height="10" fill="#E8112D"/>
-</svg>
